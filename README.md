@@ -1,7 +1,8 @@
 # news_application
 
 A new Flutter project using dart for showing the latest news 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/49d2232a-8cef-48e9-95d9-0381210db621)
+
 
 
 ## Getting Started
