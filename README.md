@@ -1,6 +1,8 @@
 # news_application
 
-A new Flutter project.
+A new Flutter project using dart for showing the latest news 
+![Uploading image.png…]()
+
 
 ## Getting Started
 
